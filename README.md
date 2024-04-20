@@ -191,7 +191,7 @@ If two or more peers have same name, <sharp>number is appended to the name. (for
 
 #### Card
 * **export_card** - print your 'card' that anyone can later use to import your contact
-* **import_card** \<card\> - gets user by card. You can write messages to him after that.
+* **import_card** \<card\> - gets user by card. You can write messages to creator of card after using this command.
 
 #### Other
 * **quit** - quit
